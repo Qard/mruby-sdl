@@ -1,0 +1,31 @@
+Raw methods:
+ ✔ General @done (13-04-20 22:55)
+ ✔ Video @done (13-04-20 22:56)
+   ✔ Surfaces @done (13-04-20 22:56)
+   ✔ Screen Buffer @done (13-04-20 22:56)
+   ✔ Colors @done (13-04-20 22:56)
+   ✔ Gamma @done (13-04-20 22:57)
+   ✔ PixelFormat @done (13-04-20 22:57)
+   ✔ Bitmaps @done (13-04-20 22:57)
+   ✔ Clipping @done (13-04-20 22:57)
+   ✔ Blitting @done (13-04-20 22:57)
+   ✔ YUV Overlay @done (13-04-20 22:57)
+ ☐ Window Management
+ ☐ Events
+ ☐ Mouse
+ ☐ Joystick
+ ☐ Audio
+ ☐ Threading
+ ☐ Time
+ ☐ Files
+ ☐ NOT IMPLEMENTING CD-ROM
+
+Structs:
+   ✔ Rect @done (13-04-20 22:59)
+   ✔ Color @done (13-04-20 22:59)
+   ✔ Paletter @done (13-04-20 22:59)
+   ☐ FInishing adding classes for building the built-in structs
+     ☐ Probably should use a macro to DRY it up, since the code is mostly all the same
+
+Testing:
+ ☐ Figure out how mrbtest works
